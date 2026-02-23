@@ -12,7 +12,7 @@ import (
 	"text/tabwriter"
 
 	"github.com/redis/go-redis/v9"
-	thinrsmq "github.com/your-org/thin-redis-queue/thinrsmq-go/pkg/thinrsmq"
+	thinrsmq "github.com/hunetmoducoding/thinrsmq-go/pkg/thinrsmq"
 )
 
 func main() {
