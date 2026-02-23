@@ -1,4 +1,4 @@
-module github.com/hunetmoducoding/thinrsmq-go
+module github.com/HunetModucoding/thinrsmq-go
 
 go 1.25
 
